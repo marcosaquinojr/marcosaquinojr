@@ -31,6 +31,6 @@ Analista de programação no eixo de Startups do Inova Maranhão.
   <a href = "mailto:marcosaquinojunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosaquinojr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcosaquinojr/marcosaquinojr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
