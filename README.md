@@ -1,5 +1,5 @@
 ### Hi! Sou o Marcos Aquino👋
-Graduado em Sistemas de Informação (UNDB) e Pos graduado em Educação Moderna (PUCRS).
+Graduado em Sistemas de Informação (UNDB) e Pós-graduado em Educação Moderna (PUCRS).
 Analista de programação no eixo de Startups do Inova Maranhão.
 
 - 🔭 Dev Front-end e professor de tecnologia. 
