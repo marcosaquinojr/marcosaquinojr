@@ -1,6 +1,6 @@
 ### Hi! Sou o Marcos Aquino👋
 Graduado em Sistemas de Informação (UNDB) e Pós-graduado em Educação Moderna (PUCRS).
-Analista de inovação do Programa Trilhas, eixo Startups do Inova Maranhão.
+Analista de inovação do Programa Trilhas/Inova Maranhão.
 
 - 🔭 Dev Front-end e professor de tecnologia. 
 - 🌱 Estou aprendendo React
