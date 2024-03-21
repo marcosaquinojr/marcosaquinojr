@@ -4,7 +4,7 @@ Analista de inovação do Programa Trilhas/Inova Maranhão.
 
 - 🔭 Dev Front-end e professor de tecnologia. 
 - 🌱 Estou aprendendo React
-- ⚡ Fato curioso: Sou um nerd e otaku viciado em café.
+- ⚡ Fato curioso: Viciado em café!
 
  <div>
   <a href="https://github.com/marcosaquinojr">
